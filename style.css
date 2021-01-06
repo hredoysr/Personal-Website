@@ -1,0 +1,168 @@
+body{
+    margin:0;
+}
+.name-highlight{
+
+    color:tomato;
+   
+   
+}
+.upper-part{
+margin-left:5%;
+width:40%;
+float:left;
+padding-left:2%;
+
+}
+h1{
+    font-size:80px;
+    font-weight:700;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+   
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-design{
+    text-decoration: none;
+    background-color: tomato;
+    padding:20px 50px;
+    border-radius:5px;
+    color:white;
+    margin-top:5%;
+    
+}
+.upper-part img{
+    width:100%;
+}
+h2{
+    font-size:48px;
+    font-weight:bold;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    
+    
+
+}
+#gym{
+    width: 336px;
+    height: 209px;
+    margin-left:10%;
+    padding-left:4px;
+    float:left;
+}
+
+#gym img{
+    width:100%;
+}
+#creative-agency{
+width: 339px;
+height: 213px;
+margin-left:2%;
+padding-left:4px;
+float:left;
+}
+#creative-agency img{
+    width:100%;
+}
+#hard-rock{
+width: 336px;
+height: 209px;
+margin-left:2%;
+padding-left:4px;
+float:left;
+}
+#hard-rock img{
+    width:100%;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+.shadow{
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+border-radius: 19.7436px;
+background:#FFFFFF;
+
+}
+.middle-background{
+    background-color:  #E5E5E5;
+    background-repeat: no-repeat;
+}
+section{
+    height:500px;
+    padding-bottom:150px;
+}
+.back-image{
+    background-image: url("shapes/Group_33094_1.png");
+    height:225px;
+    width:906px;
+    background-size: cover;
+    margin-left:267px;
+
+
+}
+.text h2{
+    color:white;
+    padding-top:88px;
+    padding-right:555px;
+    padding-bottom:73px;
+    padding-left:74px;
+
+    text-align: center;
+}
+.link-position{
+    position: absolute;
+left: 900px;
+top: 2095px;
+
+
+}
+h4{
+    font-size:24px;
+    color: #696871;
+    font-weight:bold;
+    font-family:'Bebas Neue', cursive;
+    text-align:center;
+}
+#design{
+    color: #363958;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+#image-design1{
+  
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 595px;
+    top: 2585px;
+    padding:left;
+    
+
+
+}
+#image-design2{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 660px;
+top: 2585px;
+
+}
+#image-design3{
+    position: absolute;
+    width: 36.04px;
+    height: 36px;
+    left: 720px;
+    top: 2585px;
+
+}
+.smaller img{
+    width:100%;
+}
